@@ -1,6 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHBLGzrm-o0SQ/profile-displaybackgroundimage-shrink_350_1400/0/1691553490961?e=1703116800&v=beta&t=g6iCBLrKD8raUrmpfUg5Xt-N7UaA7N2mynA0EzgrYt0)](https://ganeshgana46.io)
 <h1 align="center">Hi 👋, I'm Ganesh Pallam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/WVq9fsl-IQF3p1ezdJmMdaqa39WMhnm9_jgAPpIK720/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg"/>
 
 - 🌱 I’m currently learning **React**
