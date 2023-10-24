@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/ganesh-pallam/index.html](http://127.0.0.1:5500/ganesh-pallam/index.html)
-
 - 💬 Ask me about **Front End**
 
 - 📫 How to reach me **pallamganesh213@gmail.com**
