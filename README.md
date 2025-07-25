@@ -1,15 +1,16 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHBLGzrm-o0SQ/profile-displaybackgroundimage-shrink_350_1400/0/1691553490961?e=1703116800&v=beta&t=g6iCBLrKD8raUrmpfUg5Xt-N7UaA7N2mynA0EzgrYt0)](https://ganeshgana46.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHBLGzrm-o0SQ/profile-displaybackgroundimage-shrink_350_1400/0/1691553490961?e=1703116800&v=beta&t=g6iCBLrKD8raUrmpfUg5Xt-N7UaA7N2mynA0EzgrYt0)](https://github.com/ganeshgana46)
 <h1 align="center">Hi 👋, I'm Ganesh Pallam</h1>
-<h3 align="center">SharePoint & Power Platform Developer | Frontend Enthusiast</h3>
+<h3 align="center">SharePoint & Power Platform Developer | Office 365 Solutions Specialist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/WVq9fsl-IQF3p1ezdJmMdaqa39WMhnm9_jgAPpIK720/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg"/>
+<img align="right" alt="SharePoint Development" width="400" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/361774i13A9F661C4A4C1F6/image-dimensions/2500?v=v2&px=2000"/>
 
-- 🔭 I'm currently working as a **SharePoint Developer at Symplocos Solutions**
-- 🌱 I'm currently learning **JavaScript, React, and SharePoint CSOM**
-- 💼 Professional experience in **SharePoint Online, PowerApps, and Power Automate**
-- � Implemented solutions that **boosted efficiency by 20%** through process automation
-- 📫 How to reach me **pallamganesh213@gmail.com**
-- ⚡ Fun fact **I can solve Rubik's cube in under 2 minutes**
+- 💼 Currently working as **SharePoint Developer at Symplocos Solutions Limited**
+- 🔧 **2.3 years** of IT experience with **2+ years** specializing in SharePoint Online
+- 🚀 Expertise in **SharePoint Online, Power Apps, Power Automate (Flow)**
+- ⚡ Developed solutions that **improved efficiency by 20%** through automation
+- 🌱 Learning **JavaScript, React, and SharePoint CSOM** for advanced solutions
+- 📫 Reach me at **pallamganesh213@gmail.com**
+- ✨ Fun fact: **I enjoy solving complex problems with simple solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,59 +18,101 @@
 <a href="https://instagram.com/gana_im_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_im_46" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technical Skills:</h3>
-<h4>Microsoft Technologies:</h4>
+<h3 align="left">Microsoft Power Platform Expertise:</h3>
 <p align="left">
+  <!-- SharePoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Microsoft_SharePoint_2013_logo.svg/1200px-Microsoft_SharePoint_2013_logo.svg.png" alt="sharepoint" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png" alt="sharepoint" width="50" height="50"/>
   </a>
-  <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Microsoft_Power_Platform_logo.svg/1200px-Microsoft_Power_Platform_logo.svg.png" alt="powerplatform" width="80" height="40"/> 
-  </a>
+  <!-- Power Apps -->
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://logowik.com/content/uploads/images/power-apps5848.jpg" alt="powerapps" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/power-apps.png" alt="powerapps" width="50" height="50"/>
+  </a>
+  <!-- Power Automate -->
+  <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/power-automate.png" alt="power-automate" width="50" height="50"/>
+  </a>
+  <!-- Office 365 -->
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="office365" width="50" height="50"/>
   </a>
 </p>
 
-<h4>Web Development:</h4>
+<h3 align="left">Web Development Skills:</h3>
 <p align="left">
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
+  <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
 
-<h4>Tools & Methodologies:</h4>
+<h3 align="left">Tools & Platforms:</h3>
 <p align="left">
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
+  <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshgana46&show_icons=true&locale=en&layout=compact" alt="ganeshgana46" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshgana46&show_icons=true&locale=en&theme=radical" alt="ganeshgana46" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgana46&theme=radical" alt="ganeshgana46" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshgana46&show_icons=true&locale=en" alt="ganeshgana46" /></p>
+<h2 align="center">Professional Highlights</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgana46&" alt="ganeshgana46" /></p>
+<h3 align="left">🔷 Key Project: PPE Request System</h3>
+<p>
+  <strong>Client:</strong> Maaden Aluminium Company<br>
+  <strong>Technologies:</strong> SharePoint Online, PowerApps, Power Automate<br>
+  • Developed complete PPE request and inventory tracking system<br>
+  • Created PowerApps forms with user-friendly interfaces<br>
+  • Implemented automated approval workflows with role-based routing<br>
+  • Configured real-time inventory tracking with automated notifications<br>
+  • Improved processing efficiency by 20% through automation
+</p>
 
-<h3 align="left">Recent Project:</h3>
-<p><b>PPE Request System for Maaden Aluminium</b><br>
-- Developed using SharePoint Online, PowerApps, and Power Automate<br>
-- Implemented automated approval workflows with role-based routing<br>
-- Created real-time inventory tracking with automated notifications<br>
-- Improved request processing efficiency by 20%</p>
+<h3 align="left">🔷 Core SharePoint Skills:</h3>
+<p>
+  • SharePoint site collections, lists, and libraries creation<br>
+  • Custom PowerApps forms development<br>
+  • Power Automate workflow design and implementation<br>
+  • SharePoint permissions and access control management<br>
+  • Out-of-the-box (OOTB) workflow configuration<br>
+  • SharePoint customization and client-side validations
+</p>
+
+<h3 align="left">Education & Certifications</h3>
+<p>
+  <strong>Bachelor of Technology</strong> in Electronics and Communication Engineering<br>
+  Vel Tech University (2019-2023) | CGPA: 8.23<br><br>
+  
+  <strong>Certifications:</strong><br>
+  • Front End Web Development Using JavaScript and React JS<br>
+  • Microsoft Power Platform Fundamentals (In Progress)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshgana46&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshgana46" /> 
+</p>
