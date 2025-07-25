@@ -1,8 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/code.gif)](https://github.com/ganeshgana46)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/ganeshgana46)
 <h1 align="center">Hi 👋, I'm Ganesh Pallam</h1>
 <h3 align="center">SharePoint & Power Platform Developer | Office 365 Solutions Specialist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0ed4310a6b/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 - 💼 Currently working as **SharePoint Developer at Symplocos Solutions Limited**
 - 🔧 **2.3 years** of IT experience with **2+ years** specializing in SharePoint Online
@@ -20,19 +20,19 @@
 <p align="left">
   <!-- SharePoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/SharePoint/SVG/ic_fluent_sharepoint_48_filled.svg" alt="sharepoint" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sharepoint/sharepoint-original.svg" alt="sharepoint" width="50" height="50"/>
   </a>
   <!-- Power Apps -->
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Power%20Apps/SVG/ic_fluent_power_apps_48_filled.svg" alt="powerapps" width="50" height="50"/>
+    <img src="https://docs.microsoft.com/en-us/media/logos/logo_powerapps.svg" alt="powerapps" width="50" height="50"/>
   </a>
   <!-- Power Automate -->
   <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Power%20Automate/SVG/ic_fluent_power_automate_48_filled.svg" alt="power-automate" width="50" height="50"/>
+    <img src="https://docs.microsoft.com/en-us/media/logos/logo_powerautomate.svg" alt="power-automate" width="50" height="50"/>
   </a>
   <!-- Office 365 -->
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Office/SVG/ic_fluent_office_48_filled.svg" alt="office365" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="office365" width="50" height="50"/>
   </a>
 </p>
 
