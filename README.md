@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Pallam</h1>
 <h3 align="center">SharePoint & Power Platform Developer | Frontend Enthusiast</h3>
 
-- 💼 Currently working as **SharePoint Developer at Symplocos Solutions Limited**
+- 💼 Currently working as **SharePoint Developer at Softic Diditech Pvt Ltd**
 - 🔧 **2.3 years** of IT experience with **2+ years** specializing in SharePoint Online
 - 🚀 Expertise in **SharePoint Online, Power Apps, Power Automate (Flow)**
 - ⚡ Developed solutions that **improved efficiency by 20%** through automation
